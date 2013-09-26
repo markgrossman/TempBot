@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    easy-gtalk-bot (1.0.2)
+      xmpp4r (>= 0.5)
+    xmpp4r (0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  easy-gtalk-bot
